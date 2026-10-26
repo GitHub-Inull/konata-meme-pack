@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "konata-meme-pack-001",
+  "name": "泉此方表情包 · 幸运星",
+  "version": "1.0.0",
+  "description": "《幸运星》泉此方（Izumi Konata）表情包，共 208 张 PNG（大部分为透明背景贴纸），按聊天回复场景分类并附语义描述，适配 AstrBot Meme Pack v2 语义分享格式。",
+  "author": "GitHub-Inull（整理与语义标注） / 素材版权归原作者",
+  "homepage": "https://github.com/GitHub-Inull/konata-meme-pack",
+  "license": "CC-BY-NC-SA-4.0",
+  "tags": [
+    "semantic",
+    "v2",
+    "community",
+    "konata",
+    "lucky-star",
+    "anime"
+  ],
+  "previews": [
+    "previews/cover.jpg"
+  ],
+  "source": {
+    "type": "github",
+    "repo": "GitHub-Inull/konata-meme-pack",
+    "ref": "v1.0.0",
+    "subpath": "."
+  },
+  "categories": {
+    "angry": {
+      "description": "生气、不爽、想打人：被冒犯、被挑衅或被阴阳时使用"
+    },
+    "baka": {
+      "description": "吐槽、嫌弃对方笨：对方犯低级错误或说蠢话时使用（友军式责备）"
+    },
+    "confused": {
+      "description": "疑惑、问号、没看懂：需要对方解释或理解障碍时使用"
+    },
+    "fool": {
+      "description": "搞怪、自嘲、发疯、抽象：整活、缓和气氛或装傻时使用"
+    },
+    "happy": {
+      "description": "开心、庆祝、得意：对方有好消息/完成目标/夸你时使用"
+    },
+    "like": {
+      "description": "喜欢、点赞、认可：对方给出好主意或优秀方案时使用"
+    },
+    "meow": {
+      "description": "卖萌、撒娇：可爱互动、安抚情绪或对方卖萌时使用"
+    },
+    "reply": {
+      "description": "应答、收到、好的：对方打招呼、布置任务或等待回应时使用"
+    },
+    "sad": {
+      "description": "难过、失落、emo：对方受挫或自己想表达低落时使用"
+    },
+    "see": {
+      "description": "偷看、盯着、暗中观察：吃瓜、围观或想看对方反应时使用"
+    },
+    "shy": {
+      "description": "害羞、脸红：被夸、被调侃或涉及隐私话题时使用"
+    },
+    "sigh": {
+      "description": "无语、叹气、无奈：对方说离谱话、冷场或让人接不上话时使用"
+    },
+    "sleep": {
+      "description": "困、想睡、摆烂：熬夜、疲劳或想躺平时使用"
+    },
+    "work": {
+      "description": "学习、干活、加油：考试、赶 deadline 或需要打气时使用"
+    }
+  }
+}

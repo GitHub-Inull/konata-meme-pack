@@ -1,0 +1,6 @@
+semantic_index/
+semantic_indexes/
+*.zip
+.DS_Store
+__pycache__/
+*.pyc
